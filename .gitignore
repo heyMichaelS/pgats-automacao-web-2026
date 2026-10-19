@@ -1,0 +1,6 @@
+node_modules/
+results/
+log/
+screenshots/
+npm_install_debug.log
+reports/
