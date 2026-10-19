@@ -19,7 +19,9 @@
         "exclude": [],
         "parallels": 1,
         "npm_dependencies": {
-            "cypress-mochawesome-reporter": "^5.0.0"
+            "cypress": "16.1.1",
+            "cypress-xpath": "2.0.1",
+            "cypress-mochawesome-reporter": "5.0.0"
         },
         "auto_import_dev_dependencies": false,
         "exclude_dependencies": [],
